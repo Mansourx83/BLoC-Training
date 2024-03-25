@@ -27,7 +27,7 @@ To embark on your Bloc training journey, follow these steps:
 
 Feel free to experiment with the projects, tweak the code, and explore different Bloc-related concepts to deepen your understanding.
 
-## Contributions and Feedback 🎓
+## Contributions and Feedback 🛠️
 
 Your contributions and feedback are highly valued! If you have suggestions for improvements, new project ideas, or any questions, please don't hesitate to reach out. You can contribute to this repository by:Youssef Mansour (Mansourx83)
 
