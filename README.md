@@ -29,7 +29,7 @@ Feel free to experiment with the projects, tweak the code, and explore different
 
 ## Contributions and Feedback 🎓
 
-Your contributions and feedback are highly valued! If you have suggestions for improvements, new project ideas, or any questions, please don't hesitate to reach out. You can contribute to this repository by:Youssef Mansour
+Your contributions and feedback are highly valued! If you have suggestions for improvements, new project ideas, or any questions, please don't hesitate to reach out. You can contribute to this repository by:Youssef Mansour (Mansourx83)
 
 - Opening an issue to report a bug or request a new feature.
 - Submitting a pull request with improvements or fixes.
