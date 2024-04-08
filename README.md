@@ -13,6 +13,7 @@ The repository features the following projects:
 
 - **Counter App**: A basic Flutter application demonstrating the implementation of Bloc for simple state management.
 
+- **localization app**: This app allows users to seamlessly switch between English and Arabic languages and leverages SharedPreferences for persistent storage. By working on these projects, you'll gain practical experience in implementing Bloc and Cubit for state management in Flutter applications.
 
 
 ## Getting Started 🚀
