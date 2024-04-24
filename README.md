@@ -17,6 +17,13 @@ The repository features the following projects:
 
 - **Connectivity  app**: This Flutter app showcases connectivity status monitoring using the BLoC pattern. It displays messages for connected and disconnected states, utilizing the Connectivity plugin to detect network changes. Employing Flutter's BlocConsumer widget, it efficiently manages state changes and updates the UI. Users receive real-time feedback on their device's network connection status.
 
+  
+- **Theme App**: The Flutter application allows users to switch between light and dark themes seamlessly using the Bloc/Cubit state management pattern. Managed by the ThemeBloc, the app offers a smooth experience in updating the UI based on the selected theme. Intuitive UI elements, like an IconButton in the AppBar, facilitate effortless theme switching, enhancing user .
+
+  
+- **Todos App**: The Flutter application leverages the bloc/cubit pattern in Flutter to seamlessly retrieve and manage data from an API, ensuring real-time updates and synchronization across devices. With its intuitive interface and efficient state management, users can easily create, update, enhancing productivity and organization.
+
+
 
 ## Getting Started 🚀
 
