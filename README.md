@@ -15,6 +15,8 @@ The repository features the following projects:
 
 - **localization app**: This app allows users to seamlessly switch between English and Arabic languages and leverages SharedPreferences for persistent storage. By working on these projects, you'll gain practical experience in implementing Bloc and Cubit for state management in Flutter applications.
 
+- **Connectivity  app**: This Flutter app showcases connectivity status monitoring using the BLoC pattern. It displays messages for connected and disconnected states, utilizing the Connectivity plugin to detect network changes. Employing Flutter's BlocConsumer widget, it efficiently manages state changes and updates the UI. Users receive real-time feedback on their device's network connection status.
+
 
 ## Getting Started 🚀
 
